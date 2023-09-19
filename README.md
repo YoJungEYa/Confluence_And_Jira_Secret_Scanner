@@ -24,16 +24,12 @@ JIRA Scan:
 1. Open up command prompt & cd to the directory
 2. Run the following command:
 python JiraScanner.py -j <https://yourcompanyname.atlassian.net/> -u <username or email> -p <Your API Token> -d ./dictionaries/keywordlist.txt
-or 
-py JiraScanner.py -j <https://yourcompanyname.atlassian.net/> -u <username or email> -p <Your API Token> -d ./dictionaries/keywordlist.txt
 3. Results should go to the "loot" directory
-4. 
+
 =======================================================================================================================================
 
 CONFLUENCE Scan:
 1. Open up command prompt & cd to the directory
 2. Run the following command:
 python ConfluenceScan.py -c <https://yourcompanyname.atlassian.net/> -u <username or email> -p <Your API Token> -d ./dictionaries/keywordlist.txt
-or
-py ConfluenceScan.py -c <https://yourcompanyname.atlassian.net/> -u <username or email> -p <Your API Token> -d ./dictionaries/keywordlist.txt
-4. Results should go to the "loot" directory
+3. Results should go to the "loot" directory
