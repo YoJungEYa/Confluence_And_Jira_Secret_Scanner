@@ -8,8 +8,8 @@ The output file (.csv format) gives you the Created date, URL, Title, and the Co
 1. Go to https://id.atlassian.com/manage-profile/security/api-tokens and create a API Token. (Keep a note of it)
 
 2. Download the Chrome Selenium Webdriver from this website; select the one that's compatible with your OS version.
->> https://chromedriver.chromium.org/downloads/version-selection
->> https://googlechromelabs.github.io/chrome-for-testing/
+- https://chromedriver.chromium.org/downloads/version-selection
+- https://googlechromelabs.github.io/chrome-for-testing/
 
 3. Add the chromedriver.exe to the "chromedrive_win32" folder.
 
