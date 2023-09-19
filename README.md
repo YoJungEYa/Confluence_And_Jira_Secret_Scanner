@@ -19,6 +19,7 @@ Note:
 2. Download/install any extensitions if it splits out any errors about extenstions/imports
 
 =======================================================================================================================================
+
 JIRA Scan:
 1. Open up command prompt & cd to the directory
 2. Run the following command:
