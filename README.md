@@ -31,5 +31,5 @@ python JiraScanner.py -j <https://yourcompanyname.atlassian.net/> -u <username o
 CONFLUENCE Scan:
 1. Open up command prompt & cd to the directory
 2. Run the following command:
-python ConfluenceScan.py -c <https://yourcompanyname.atlassian.net/> -u <username or email> -p <Your API Token> -d ./dictionaries/keywordlist.txt
+python ConfluenceScanner.py -c <https://yourcompanyname.atlassian.net/> -u <username or email> -p <Your API Token> -d ./dictionaries/keywordlist.txt
 3. Results should go to the "loot" directory
