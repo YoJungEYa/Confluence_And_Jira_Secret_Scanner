@@ -1,5 +1,8 @@
 # Confluence_And_Jira_Secret_Scanner
 ****FYI, I WILL NOT make any edits/commits to this repo after Sept 28, 2023. Any other commits you see could be & most likely malicious from Dependabot****
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------
 Scan your Confluence and/or Jira environment for credentials or secrets using your credentials (username and API Token).
 
 This python script supports 'some' REGEX and finds keywords you provide in the .txt file. (JQL and CQL is fking weird)
